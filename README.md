@@ -52,3 +52,5 @@ Code for America has released some official project stages:
 
 [Here are more details about these project stages](http://www.codeforamerica.org/brigade/projects/stages). This includes outlining what a brigade is expected to do at each stage and what Code for America can do 
 
+
+(Special thanks to Mateo Clarke at Open Austin.)
