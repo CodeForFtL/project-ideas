@@ -1,4 +1,4 @@
-# Code for Miami Project Ideas
+# Code for Miami Project Ideas (TO BE EDITIED) 6/1 - RD
 
 #### [:bulb: Browse and Discuss the Ideas :bulb:](https://github.com/Code-for-Miami/tasks/issues)
 #### [:star2: Propose a New Project Idea :star2:](https://github.com/Code-for-Miami/tasks/issues/new)
