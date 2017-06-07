@@ -8,7 +8,7 @@
 
 Code for Fort Lauderdale uses civic tech to improve quality of life. We want to help citizen, government, and nonprofit stakeholders solve problems. 
 
-Code for Fort Lauderdale is an [open source](https://en.wikipedia.org/wiki/Open_source) organization. We make software freely and openly available. GitHub is our platform of choice. Think of it as collaboration + technology. There are some really handy tools here, including a feature called [*Issues*](https://github.com/Codeforftl/project-ideas/issues)
+Code for Fort Lauderdale is an [open source](https://en.wikipedia.org/wiki/Open_source) organization. We make software freely and openly available. GitHub is our platform of choice. Think of it as collaboration + technology. There are some really handy tools here, including a feature called [*Issues*](https://github.com/Codeforftl/project-ideas/issues).
 Got an idea? Even a tiny one? SHARE IT!
 
 Thanks for co-creating with us!
@@ -28,7 +28,7 @@ GitHub is the platform we're using to collect ideas, vet ideas, and convert thos
 *(Copy and paste the below into a new issue.)*
 
 ```
-**Concise description. What problem are you trying to solve?**: 
+**Concise description. What problem are you trying to solve?** 
 
 **Link (more details/brain dump/alpha)**
 
