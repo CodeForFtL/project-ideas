@@ -2,9 +2,9 @@
 
 #### [:bulb: Browse and Discuss the Ideas :bulb:](https://github.com/Codeforftl/project-ideas/issues)
 #### [:star2: Propose a New Project Idea :star2:](https://github.com/Codeforftl/project-ideas/issues/new)
-#### [:floppy_disk: View List of our Active/Achieved Projects :floppy_disk:](http://codefor.miami/projects)
+#### [:floppy_disk: View List of our Active/Achieved Projects :floppy_disk:](https://hackpad.com/OpenHackNight-Broward-College-RMLljRTTz3Z)
 
-### About the Code for Miami Hack Team
+### About the Code for Fort Lauderdale Hack Team
 
 Code for Fort Lauderdale uses civic tech to improve quality of life. We want to help citizen, government, and nonprofit stakeholders solve problems. 
 
